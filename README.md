@@ -1,1 +1,2 @@
 # mhw3
+in questa repository vi è il continuo del contenuto delle repository precedenti, in particolare sono state aggiunte due rest API alla copia del sito web; una riguardante le notizie del mondo apple e una riguardante le informazioni sul meteo locale, in piu sono stati ottimizzati i codici javascript, css e html per la loro aggiunta e il corretto funzionamento. Per una corretta visualizzazione dei contenuti nella loro interezza si raccomanda di inserire tutti i file del progetto in una stessa cartella o directory. 
